@@ -1,0 +1,6 @@
+streamlit
+joblib
+pandas
+numpy
+scikit-learn
+psycopg[binary]>=3.2,<4
